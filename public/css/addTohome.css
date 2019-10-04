@@ -1,0 +1,12 @@
+#ad2hs {
+    position: absolute;
+    z-index: 10000;
+    width: 100px;
+    top: 80vh;
+    margin-left: calc(50vw - 50px);
+    padding: 5px;
+    border-radius: 5px;
+    background-color: black;
+    color: gold;
+    font-size: 18px;
+}
